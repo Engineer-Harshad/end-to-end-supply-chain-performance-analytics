@@ -12,5 +12,8 @@ __pycache__/
 # Logs
 logs/
 
+# Microsoft Office temporary files
+~$*
+
 # Raw project data
 data/
